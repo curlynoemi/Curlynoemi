@@ -1,6 +1,6 @@
 # Hi there, I'm Noemi!
 
-**`Digital Content Creator`**
+**`Graphic and Web Designer`**
 
 I'm Noemi, a designer and dev student with a passion for coding and creating.
 Follow me as I tackle new challenges in web development, data analysis, and more.
