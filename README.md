@@ -1,8 +1,8 @@
-# 🌸 Curlynoemi
+# Hi there, I'm Noemi!
 
 **`Digital Content Creator`**
 
-I'm Noemi, a student developer with a passion for coding and creating.
+I'm Noemi, a designer and dev student with a passion for coding and creating.
 Follow me as I tackle new challenges in web development, data analysis, and more.
 I'll share my tips and resources along the way, so feel free to connect with me and join the journey!
 
