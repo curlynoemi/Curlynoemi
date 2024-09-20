@@ -4,7 +4,7 @@
 
 I'm Noemi, a designer and dev student with a passion for coding and creating.
 Follow me as I tackle new challenges in web development, data analysis, and more.
-I'll share my tips and resources along the way, so feel free to connect with me and join the journey!
+Here I'll share all my coding-related resources and passion projects, so feel free to connect with me and join the journey!
 
 
 ### 💼 Languages and Tools
